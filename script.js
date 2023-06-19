@@ -1,1 +1,1 @@
-let arr = ["disha",1,true,500,600];
+let yourArray = ["disha",1,true,500,600];
